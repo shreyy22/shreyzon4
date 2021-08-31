@@ -11,18 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shreyy22/shreyzon4.git"
+    "url": "no"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shreyy22/shreyzon4/issues"
-  },
-  "homepage": "https://github.com/shreyy22/shreyzon4#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "firebase": "^9.0.1",
-    "persist": "^0.2.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
@@ -36,5 +31,17 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
     "styled-components": "^5.3.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
